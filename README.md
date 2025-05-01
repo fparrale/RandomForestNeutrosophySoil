@@ -54,4 +54,4 @@ This project is provided under the MIT License.
 
 ## 🙋‍♂️ Author
 
-Developed by [Your Name]. For academic or research-related questions, feel free to reach out.
+Developed by Franklin Parrales-Bravo. For academic or research-related questions, feel free to reach out.
